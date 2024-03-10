@@ -1,4 +1,4 @@
-# ChatGPT-PromptsList: A Collection of OpenAI's GPT-3 Chat Prompts
+# A Collection of AI's Prompts for optimal context
 
 Are you looking for a curated list of conversation prompts for OpenAI's GPT-3 chat model? Look no further! The ChatGPT-PromptsList repository is the answer to your needs. This repository contains a comprehensive list of conversation prompts for OpenAI's GPT-3, designed to showcase the model's capabilities and to help you get started with experimenting and building chatbots.
 
