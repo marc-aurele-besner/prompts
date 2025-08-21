@@ -1,0 +1,30 @@
+name: Improve prompt
+description: Propose improvements to an existing prompt
+labels: [enhancement]
+body:
+  - type: input
+    id: section
+    attributes:
+      label: Section
+      description: E.g., Images / Teacher / Language
+  - type: input
+    id: title
+    attributes:
+      label: Prompt title
+      description: E.g., The "Translator"
+      placeholder: The "Translator"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current prompt (snippet)
+      description: Paste the relevant part to update
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed changes
+      description: Explain what to change and why
+      placeholder: Clear, actionable suggestions
+    validations:
+      required: true

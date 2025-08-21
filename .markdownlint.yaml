@@ -1,0 +1,7 @@
+# markdownlint configuration
+MD013: false   # Line length
+MD033: false   # Inline HTML
+MD041: false   # First line in file should be a top-level heading
+MD024:
+  allow_different_nesting: true
+MD025: false   # Multiple top-level headings allowed in a long README

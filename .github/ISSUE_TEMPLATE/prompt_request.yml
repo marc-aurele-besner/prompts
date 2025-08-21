@@ -1,0 +1,34 @@
+name: Prompt request
+description: Suggest a new prompt to add to the list
+labels: [enhancement]
+body:
+  - type: input
+    id: role
+    attributes:
+      label: Role name
+      description: Example "The \"Data analyst\""
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt text
+      description: Include a fenced txt block if possible
+      placeholder: |
+        ```txt
+        I want you to act as ...
+        ```
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why is this useful?
+      description: Describe the use case and intended audience
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I confirm this prompt is safe and follows repository guidelines
+          required: true

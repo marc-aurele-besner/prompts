@@ -1,4 +1,21 @@
-# A Collection of AI's Prompts for optimal context
+# A Collection of AI Prompts for Optimal Context
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+This repository curates high‑quality conversation prompts to get great results from modern chat models. It’s community‑driven and continuously improving.
+
+## Table of Contents
+- [Usage](#usage)
+- [Descriptions, social media](#descriptions-social-media)
+- [Images](#images)
+- [Language](#language)
+- [Teacher](#teacher)
+- [Crypto Fun](#crypto-fun-entertainment-purposes-only-)
+- [Code of Conduct](#code-of-conduct)
+- [Contributing](#contributing)
+- [License](#license)
+- [Disclaimer](#disclaimer)
 
 Are you looking for a curated list of conversation prompts for OpenAI's GPT-3 chat model? Look no further! The ChatGPT-PromptsList repository is the answer to your needs. This repository contains a comprehensive list of conversation prompts for OpenAI's GPT-3, designed to showcase the model's capabilities and to help you get started with experimenting and building chatbots.
 
@@ -402,6 +419,24 @@ Welcome to this comprehensive guide on generating images with ChatGPT 4.0. Below
 Feel free to customize these prompts to suit your specific needs. Remember to include the gen_id request in each prompt to efficiently manage your generated images.
 
 Happy image generating!
+
+## Contributing
+
+We welcome improvements and new prompts. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the style guide and submission process. You can:
+- Open an issue using the "Prompt request" or "Improve prompt" templates
+- Submit a pull request editing this `README.md` with your additions
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+
+## Disclaimer
+
+Prompts are provided for educational purposes. Do your own due diligence when using outputs in production or for advice‑seeking scenarios.
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Language
 
